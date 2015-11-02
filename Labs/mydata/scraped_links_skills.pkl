@@ -1,0 +1,17 @@
+(dp1
+S'python'
+p2
+I180
+sS'sas'
+p3
+I150
+sS'spark'
+p4
+I0
+sS'hadoop'
+p5
+I30
+sS'mapreduce'
+p6
+I0
+s.
